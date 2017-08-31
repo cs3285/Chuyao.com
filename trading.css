@@ -1,0 +1,209 @@
+body {margin:0px 0px 50px 0px ;}
+
+.Nav-bar-container{
+    position: absolute;
+	height: 150px;
+	width: 1000px;
+	background-color: #575757; 
+	top: 0px;
+	margin-right: auto; 
+	margin-left: auto;
+    left: 0;
+    right: 0;
+}
+
+.github{
+    height:35px;
+    width:120px;
+    position: absolute;
+    top:102px;
+    left:85px;
+}
+
+.github img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0px;
+    left:0px;
+
+}
+
+.linkedin{
+    height:30px;
+    width:120px;
+    position: absolute;
+    top:105px;
+    left:245px;
+}
+
+.linkedin img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0px;
+    left:0px;
+
+}
+
+.na {
+    position: relative;
+    left: 80px;
+    top: -5px;
+
+}
+.na h2 {
+	font-size: 200%;
+	color: #FFFFFF;
+}
+
+.tit {
+    position: relative;
+    left: 85px;
+    top: -26px;
+}
+
+.tit h3{
+	font-size: 120%;
+	color: #FFFFFF;
+}
+.menu {
+    position: relative;
+    right: -500px;
+    top: -34px;
+}
+
+.nav-resume{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.nav-trading{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    background-color: #F3F3F3;
+    color: #000000;
+}
+
+.nav-projects{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+
+.menu a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.menu a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+.content {
+    position: absolute;
+    height: 2500px;
+    width: 1000px;
+    top: 150px;
+    margin-right: auto; 
+    margin-left: auto;
+    left: 0;
+    right: 0;
+    background-color: lightgrey;
+}
+
+.content-project {
+    border-left:8px solid #33cc33;
+    background-color: white;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top:20px;
+    width:90%;
+    background-color: #373737;
+    padding-top:14px;
+    padding-left:10px;
+    padding-bottom:10px;
+    height: auto;
+}
+
+.content-project h2{
+    color: white;
+    margin-left:0px;
+    margin-top:0px;
+
+}
+
+.content-project h3{
+    position:relative;
+    top:0px;
+    color: #DAD542;
+    width: 100%;
+    text-align: left;
+}
+
+.content-project #homepage {
+    color: #33cc33;
+    position:relative;
+    top: -45px;
+    left: 200px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    float:left;
+    margin-bottom:-30px;
+}
+
+#paper{
+    font-size:20px;
+    color:white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.content-project p {
+    color: white;
+    font-size:18px;
+}
+
+
+.Nav-bar{
+    position:fixed;
+    height: 150px;
+    background-color: #000000; 
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin-top: 0px;
+}
+
+
+
+.foot {
+    position: fixed;
+    height: 50px;
+    background-color: black;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    text-align:center;
+}
+
+.foot-container h3{
+    color: white;
+    vertical-align:middle;
+}
+
