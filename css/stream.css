@@ -73,7 +73,7 @@ body {margin:0px 0px 50px 0px ;}
     top: -34px;
 }
 
-.nav-resume{
+.nav-stream{
     float: left;
     display: block;
     text-align: center;
@@ -84,7 +84,7 @@ body {margin:0px 0px 50px 0px ;}
     color: #000000;
 }
 
-.nav-stream{
+.nav-resume{
     float: left;
     display: block;
     color: #f2f2f2;
